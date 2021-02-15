@@ -1,0 +1,15 @@
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\bin\Debug\MealPlanner.exe.config
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\bin\Debug\MealPlanner.exe
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\bin\Debug\MealPlanner.pdb
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csprojAssemblyReference.cache
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MainWindow.g.cs
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\App.g.cs
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner_MarkupCompile.cache
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner_MarkupCompile.lref
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MainWindow.baml
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.g.resources
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.Properties.Resources.resources
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj.GenerateResource.cache
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj.CoreCompileInputs.cache
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.exe
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.pdb
