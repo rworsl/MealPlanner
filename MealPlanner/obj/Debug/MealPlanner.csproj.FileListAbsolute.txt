@@ -13,3 +13,4 @@ C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj
 C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj.CoreCompileInputs.cache
 C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.exe
 C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.pdb
+C:\Users\RichW\source\repos\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj.ResolveComReference.cache
